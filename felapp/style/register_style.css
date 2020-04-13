@@ -1,0 +1,15 @@
+.error {
+  color: red;
+}
+
+.wrapper-center{
+    text-align: center;
+}
+
+#register-box{
+  display: inline-block;
+}
+
+input{
+  display: inline-block;
+}
